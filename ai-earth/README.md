@@ -34,6 +34,10 @@
 2. 提交时，用户名是阿里云账号（和昵称不一致，是原始昵称），密码是账号密码，输错了则不会显示提交成功；需要等很久都没成绩，因为time out for connection；
 3. 提交时，镜像地址后需要有版本号，否则可能无法提交成功
 
+截图打卡：
+
+![](https://res.cloudinary.com/drdsizrhv/image/upload/v1613731902/datawhale/WeChat78574cd0ce40951b27e590f999885dca_ihkfty.png)
+
 ### Task02：Baseline学习及改进（5天）
 
 - 学习baseline，并提出自己的改进策略，提交代码并更新自己的分数排名。
