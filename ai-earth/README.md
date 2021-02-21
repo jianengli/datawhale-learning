@@ -12,7 +12,7 @@
 - 熟悉打卡规则。
 - 打卡截止时间：02月18日03:00
 
-### Task01：比赛全流程体验（3天）
+### Task01：比赛全流程体验（4天）
 
 - 学习如何使用Docker提交代码及比赛上分。
 - 记录比赛中遇到的问题，并在学习笔记中插入初始分数截图。
@@ -38,7 +38,7 @@
 
 ![](https://res.cloudinary.com/drdsizrhv/image/upload/v1613731902/datawhale/WeChat78574cd0ce40951b27e590f999885dca_ihkfty.png)
 
-### Task02：Baseline学习及改进（5天）
+### Task02：Baseline学习及改进（4天）
 
 - 学习baseline，并提出自己的改进策略，提交代码并更新自己的分数排名。
 - 在学习笔记中插入改进baseline之后分数排名截图。
